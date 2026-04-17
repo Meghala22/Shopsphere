@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.666a2f8d.css",
+    "main.js": "/static/js/main.c91315ea.js",
+    "static/js/453.026ebbd0.chunk.js": "/static/js/453.026ebbd0.chunk.js",
+    "static/media/marketnest-hero.png": "/static/media/marketnest-hero.1c8aee317659c76ac897.png",
+    "static/media/marketnest-dashboard-hero.png": "/static/media/marketnest-dashboard-hero.32d013b9992d7d1196ad.png",
+    "index.html": "/index.html",
+    "main.666a2f8d.css.map": "/static/css/main.666a2f8d.css.map",
+    "main.c91315ea.js.map": "/static/js/main.c91315ea.js.map",
+    "453.026ebbd0.chunk.js.map": "/static/js/453.026ebbd0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.666a2f8d.css",
+    "static/js/main.c91315ea.js"
+  ]
+}
